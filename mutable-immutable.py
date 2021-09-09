@@ -2,11 +2,11 @@
 
 a=[1,2,3,4]
 print("a is ",a)
-print("typeof a is ",type(a))
+print("type of a is ",type(a))
 print("id of a is ",id(a))
 a[2]=5
 print("changed a is",a)
-print("typeof a is ",type(a))
+print("type of a is ",type(a))
 print("id of a is ",id(a))
 
 #-------------tuple--------------
