@@ -1,7 +1,7 @@
 import tkinter as tk
 import requests
 from time import *
- 
+ // bro this is very nice code from your side please accept my pull request #hactoberfest2021
 
 def getWeather(canvas):
     city = textField.get()
