@@ -1,15 +1,13 @@
 s="saras" #enter the string here
-i=0
-j=-1
-flag=0
+i,j,f=0,-1,0
 
 while(i<len(s)//2):
   if(s[i]!=s[j]):
-    flag=1
+    f=1
     break
   i+=1
   j-=1
-if(flag==0):
+if(f==0):
   print(s ," is palindrome..")
 else:
   print(s, "is not palindrome")
