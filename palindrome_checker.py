@@ -1,4 +1,5 @@
-s="saras" #enter the string here
+s=input("enter the string here: ")
+
 i,j,f=0,-1,0
 
 while(i<len(s)//2):
