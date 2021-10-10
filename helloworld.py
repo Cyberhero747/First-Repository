@@ -1,10 +1,11 @@
-print("hello world")
+print("HELLO WOLD !!")
 
 #-------also valids methods-------
 
-#print('hello world')
-#print('''hello world''')
-#print("""hello world""")
+#print('HELLO WOLD !!')
+#print('''HELLO WOLD !!''')
+#print("""HELLO WOLD !!""")
 
-#a='hello world'
+#a='HELLO WOLD !!'
 #print(a)
+#edited by dm 
