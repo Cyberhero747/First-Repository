@@ -1,3 +1,3 @@
 # First-Repository
 ## This Repository
-contains some cool python programs
+CONTAINS Some COOOL PYTHON PROGRAMS 
