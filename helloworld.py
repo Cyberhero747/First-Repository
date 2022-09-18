@@ -1,5 +1,8 @@
 print("HELLO WOLD !!")
 
+name = "Human"
+print("Hello {}".format(name))
+
 #-------also valids methods-------
 
 #print('HELLO WOLD !!')
